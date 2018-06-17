@@ -1,0 +1,22 @@
+h1{
+
+  color:goldenrod;  
+}
+/* 
+span{
+
+    color:green;  
+  } */
+  .requierd{
+
+    color: red;
+    width: 100px;
+    height: 100px;
+    border: 1px solid  red;
+  }
+
+  .ok{
+
+           font-size: 30px;    
+
+      }
